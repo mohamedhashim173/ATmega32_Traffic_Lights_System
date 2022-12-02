@@ -1,4 +1,4 @@
 # ATmega32_Traffic_Lights_System
 
-# VIDEO:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/3ja79qiEaXU)
+<h2>Video:</h2>
+https://user-images.githubusercontent.com/102317409/205364034-06652bfe-b9bd-4109-9064-14f4b41793f1.mp4
